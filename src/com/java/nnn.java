@@ -4,8 +4,8 @@ public class nnn
 {
 	public static void main(String args[])
 	{
-		bb ob = new bb();
-		System.out.println(ob.a);
+		bb obb = new bb();
+		System.out.println(obb.a);
 		bb ob1 = new bb();
 		System.out.println(ob1.a);
 		
